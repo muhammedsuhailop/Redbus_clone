@@ -181,7 +181,7 @@ span {
 }
 .background-img-section{
     width: 100%;
-    background: url('/images/banner.webp');
+    background: url('./images/banner.webp');
     background-repeat: no-repeat;
     background-size: 100vw 520px;
 }
